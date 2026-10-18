@@ -130,7 +130,7 @@ impl Renderer {
         self.luma.resize(w * h, 0.0);
         let lut = &self.tone_lut;
         self.luma.par_chunks_mut(w).zip(rgb.par_chunks(w * 3)).for_each(|(dst, src)| {
-            for (d, px) in dst.iter_mut().zip(src.chunks_exact(3)) {
+            for (d, px) in dst.iter_mut().zip(src.as_chunks::<3>().0) {
                 let y = luma709(px[0] as f32, px[1] as f32, px[2] as f32) * (1.0 / 255.0);
                 *d = lut[(y * (LUT_N - 1) as f32) as usize];
             }

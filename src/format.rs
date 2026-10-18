@@ -542,7 +542,7 @@ impl Reader {
             bail!("index size does not match frame count");
         }
         let mut index = Vec::with_capacity(count as usize);
-        for e in raw.chunks_exact(17) {
+        for e in raw.as_chunks::<17>().0 {
             index.push(IndexEntry {
                 pts_us: u64::from_le_bytes(e[0..8].try_into().unwrap()),
                 offset: u64::from_le_bytes(e[8..16].try_into().unwrap()),

@@ -211,7 +211,12 @@ fn real_main() -> Result<()> {
             max_seconds: None,
             stats_json: false,
         }),
-        (None, p) => tertre::tui::run(p),
+        (None, p) => {
+            if !tertre::term::is_tty() || !std::io::IsTerminal::is_terminal(&std::io::stdin()) {
+                bail!("the full-screen interface needs an interactive terminal; try `tertre --help` for the non-interactive commands");
+            }
+            tertre::tui::run(p)
+        }
     }
 }
 
@@ -255,6 +260,13 @@ fn cmd_play(a: PlayArgs) -> Result<()> {
         headless,
         title: None,
     };
+    if a.file.is_file() && !format::looks_like_av1(&a.file) {
+        bail!(
+            "{} is not an .av1 film (signature not found). If it is a video, convert it first:  tertre convert {}",
+            a.file.display(),
+            a.file.display()
+        );
+    }
     let stats = player::play_file(&a.file, &opts)?;
     if a.stats_json {
         println!("{}", serde_json::to_string_pretty(&stats)?);
