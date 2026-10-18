@@ -1,0 +1,74 @@
+name: Release
+
+# Push a tag like v0.1.0 to build Linux binaries and publish a GitHub release.
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    name: build ${{ matrix.arch }}
+    runs-on: ${{ matrix.runner }}
+    strategy:
+      matrix:
+        include:
+          - arch: x86_64
+            runner: ubuntu-22.04
+          - arch: aarch64
+            runner: ubuntu-22.04-arm
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: system packages
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg libasound2-dev pkg-config
+      - uses: Swatinem/rust-cache@v2
+      - name: test before shipping
+        env:
+          TERTRE_REQUIRE_FFMPEG: "1"
+        run: cargo test --release --locked --all-targets -- --test-threads=2
+      - name: build
+        run: cargo build --release --locked
+      - name: package
+        id: pkg
+        run: |
+          TAG="${GITHUB_REF_NAME:-dev}"
+          NAME="tertre-${TAG}-${{ matrix.arch }}-unknown-linux-gnu"
+          mkdir -p "dist/$NAME"
+          cp target/release/tertre README.md LICENSE install.sh "dist/$NAME/"
+          cp -r docs "dist/$NAME/docs"
+          cp tests/fixtures/sample.av1 "dist/$NAME/sample.av1"
+          tar -C dist -czf "dist/$NAME.tar.gz" "$NAME"
+          (cd dist && sha256sum "$NAME.tar.gz" > "$NAME.tar.gz.sha256")
+          echo "name=$NAME" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.pkg.outputs.name }}
+          path: |
+            dist/*.tar.gz
+            dist/*.sha256
+
+  publish:
+    name: publish release
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist
+          merge-multiple: true
+      - name: create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" dist/* \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "tertre $GITHUB_REF_NAME" \
+            --generate-notes

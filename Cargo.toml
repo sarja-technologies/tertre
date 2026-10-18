@@ -1,0 +1,55 @@
+[package]
+name = "tertre"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.88"
+description = "Terminal Theatre: an open-source terminal cinema that converts video to coloured ASCII-art and plays the custom .av1 (ASCII Video 1) format."
+license = "MIT"
+repository = "https://github.com/sarja-technologies/tertre"
+homepage = "https://github.com/sarja-technologies/tertre"
+readme = "README.md"
+keywords = ["ascii", "video", "terminal", "tui", "player"]
+categories = ["command-line-utilities", "multimedia::video"]
+authors = ["Sarja Technologies"]
+
+[lib]
+name = "tertre"
+path = "src/lib.rs"
+
+[[bin]]
+name = "tertre"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
+panic = "unwind"
+strip = true
+
+[profile.dev]
+opt-level = 1
+
+[profile.test]
+opt-level = 2
+
+[dependencies]
+anyhow = "1.0.104"
+clap = { version = "4.5.61", features = ["derive"] }
+cpal = "0.17.3"
+crc32fast = "1.5.2"
+crossbeam-channel = "0.5.17"
+directories = "6.0.0"
+libc = "0.2.191"
+ratatui = "0.29.0"
+rayon = "1.12.0"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+signal-hook = "0.4.5"
+symphonia = { version = "0.5.5", default-features = false, features = ["ogg", "vorbis", "flac", "wav", "pcm"] }
+toml = "1.0.7"
+zstd = "0.14.3"
+
+[dev-dependencies]
+portable-pty = "0.9.0"
+tempfile = "3.27.0"

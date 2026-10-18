@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  CARGO_TERM_COLOR: always
+  RUSTFLAGS: "-D warnings"
+  TERTRE_REQUIRE_FFMPEG: "1"
+
+jobs:
+  lint:
+    name: fmt + clippy
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - name: system packages
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends libasound2-dev pkg-config
+      - uses: Swatinem/rust-cache@v2
+      - run: cargo fmt --all -- --check
+      - run: cargo clippy --all-targets --locked -- -D warnings
+
+  test:
+    name: test (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, ubuntu-22.04]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: system packages
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg libasound2-dev pkg-config
+      - name: ffmpeg has libvorbis
+        run: ffmpeg -hide_banner -encoders | grep -q libvorbis
+      - uses: Swatinem/rust-cache@v2
+      - name: unit and integration tests
+        run: cargo test --release --locked --all-targets -- --test-threads=2
+      - name: the shipped fixture verifies with the release binary
+        run: |
+          cargo build --release --locked
+          ./target/release/tertre verify tests/fixtures/sample.av1
+          ./target/release/tertre play --headless --no-audio --stats-json tests/fixtures/sample.av1
+
+  installer:
+    name: install.sh is valid
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: sh -n install.sh && sh install.sh --help
+      - run: sudo apt-get update && sudo apt-get install -y shellcheck && shellcheck -s sh install.sh scripts/*.sh

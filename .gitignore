@@ -1,0 +1,9 @@
+/target
+*.part
+/dist
+*.mp4
+*.mkv
+*.webm
+*.mov
+!tests/fixtures/*
+.DS_Store

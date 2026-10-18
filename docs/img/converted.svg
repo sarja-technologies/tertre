@@ -1,0 +1,752 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1066" height="670" viewBox="0 0 1065.6 670.0" font-family="'DejaVu Sans Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="14">
+<rect width="100%" height="100%" rx="10" fill="#0b0907"/>
+<g transform="translate(12,12)">
+<rect x="0.0" y="0.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="13.0" fill="#f2c14e" textLength="109.2" lengthAdjust="spacing" xml:space="preserve">▌T E R T R E▐</text>
+<text x="134.4" y="13.0" fill="#8a7f68" textLength="134.4" lengthAdjust="spacing" xml:space="preserve">Terminal Theatre</text>
+<text x="865.2" y="13.0" fill="#e8a33d" textLength="159.6" lengthAdjust="spacing" xml:space="preserve">C O N V E R T I N G</text>
+<rect x="0.0" y="17.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="0.0" y="30.0" fill="#4a4234" textLength="1041.6" lengthAdjust="spacing" xml:space="preserve">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+<rect x="0.0" y="34.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="47.0" fill="#a87b3a" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">┌─┤</text>
+<text x="42.0" y="47.0" fill="#f2c14e" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">PROGRESS</text>
+<text x="117.6" y="47.0" fill="#a87b3a" textLength="403.2" lengthAdjust="spacing" xml:space="preserve">├──────────────────────────────────────────────┐</text>
+<text x="529.2" y="47.0" fill="#4a4234" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">┌─┤</text>
+<text x="562.8" y="47.0" fill="#e8a33d" textLength="84.0" lengthAdjust="spacing" xml:space="preserve">LIVE FRAME</text>
+<text x="655.2" y="47.0" fill="#4a4234" textLength="378.0" lengthAdjust="spacing" xml:space="preserve">├───────────────────────────────────────────┐</text>
+<rect x="0.0" y="51.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="64.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="64.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="68.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="81.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="81.0" fill="#f2c14e" textLength="134.4" lengthAdjust="spacing" xml:space="preserve">dusk-1080p60.mp4</text>
+<text x="512.4" y="81.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="81.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="85.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="98.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="98.0" fill="#8a7f68" textLength="478.8" lengthAdjust="spacing" xml:space="preserve">→ /home/dembele/.cache/claude-tmp/tmp.6u6oCoN38i/home/.l…</text>
+<text x="512.4" y="98.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="98.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="102.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="115.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="115.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="119.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="132.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="42.0" y="132.0" fill="#e8a33d" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">done</text>
+<text x="512.4" y="132.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="132.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="136.0" width="25.6" height="17.4" fill="#0b0907"/>
+<rect x="25.2" y="136.0" width="420.4" height="17.4" fill="#231d15"/>
+<rect x="445.2" y="136.0" width="596.8" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="149.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="149.0" fill="#8cc06a" textLength="420.0" lengthAdjust="spacing" xml:space="preserve">██████████████████████████████████████████████████</text>
+<text x="453.6" y="149.0" fill="#f2c14e" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">100.0%</text>
+<text x="512.4" y="149.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="149.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="153.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="166.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="166.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="170.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="183.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="183.0" fill="#8a7f68" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">frames</text>
+<text x="117.6" y="183.0" fill="#f2e8cf" textLength="75.6" lengthAdjust="spacing" xml:space="preserve">480 / 480</text>
+<text x="512.4" y="183.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="183.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="187.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="200.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="200.0" fill="#8a7f68" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">speed</text>
+<text x="117.6" y="200.0" fill="#f2e8cf" textLength="226.8" lengthAdjust="spacing" xml:space="preserve">100.6 fps  (1.7× real time)</text>
+<text x="512.4" y="200.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="200.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="204.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="217.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="217.0" fill="#8a7f68" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">elapsed</text>
+<text x="117.6" y="217.0" fill="#f2e8cf" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">5.0 s</text>
+<text x="512.4" y="217.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="217.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="596.4" y="217.0" fill="#7486aa" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="604.8" y="217.0" fill="#6d83a6" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="613.2" y="217.0" fill="#677da3" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="621.6" y="217.0" fill="#54688c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="630.0" y="217.0" fill="#5c759f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="638.4" y="217.0" fill="#586d92" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="646.8" y="217.0" fill="#456083" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1024.8" y="217.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="221.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="234.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="234.0" fill="#8a7f68" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">grid</text>
+<text x="117.6" y="234.0" fill="#f2e8cf" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">240×68 cells</text>
+<text x="512.4" y="234.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="234.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="562.8" y="234.0" fill="#7487a6" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">`</text>
+<text x="571.2" y="234.0" fill="#7d8eab" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="579.6" y="234.0" fill="#7886a6" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="588.0" y="234.0" fill="#7d85a5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="596.4" y="234.0" fill="#808ca9" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="604.8" y="234.0" fill="#838ea9" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="613.2" y="234.0" fill="#8689a9" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="621.6" y="234.0" fill="#878ba9" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="630.0" y="234.0" fill="#8c8da7" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="638.4" y="234.0" fill="#8c899b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="646.8" y="234.0" fill="#877c8d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="655.2" y="234.0" fill="#918699" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="663.6" y="234.0" fill="#8c889d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="672.0" y="234.0" fill="#9294ad" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="680.4" y="234.0" fill="#888ba6" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="688.8" y="234.0" fill="#8e8fa9" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="697.2" y="234.0" fill="#9992a7" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">`</text>
+<text x="705.6" y="234.0" fill="#9591a5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="714.0" y="234.0" fill="#948fa2" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="722.4" y="234.0" fill="#7c87a1" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="730.8" y="234.0" fill="#6b7a98" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="739.2" y="234.0" fill="#536782" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="747.6" y="234.0" fill="#57708c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="756.0" y="234.0" fill="#4f6e90" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="764.4" y="234.0" fill="#54708f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="781.2" y="234.0" fill="#526e90" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="806.4" y="234.0" fill="#577699" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">`</text>
+<text x="848.4" y="234.0" fill="#52708f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="865.2" y="234.0" fill="#6c85a4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1024.8" y="234.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="238.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="251.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="251.0" fill="#8a7f68" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">size</text>
+<text x="117.6" y="251.0" fill="#f2e8cf" textLength="277.2" lengthAdjust="spacing" xml:space="preserve">809 KB of ≈ 809 KB  (audio 29 KB)</text>
+<text x="512.4" y="251.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="251.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="251.0" fill="#9b9aa8" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="546.0" y="251.0" fill="#9a98a8" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="554.4" y="251.0" fill="#9d9aaa" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="562.8" y="251.0" fill="#9d99a9" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="571.2" y="251.0" fill="#9b98a8" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">..</text>
+<text x="588.0" y="251.0" fill="#9d99a8" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="596.4" y="251.0" fill="#9e9aa8" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="604.8" y="251.0" fill="#a59ea8" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="613.2" y="251.0" fill="#ac9fab" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="621.6" y="251.0" fill="#b2a0a5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="630.0" y="251.0" fill="#b39da2" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="638.4" y="251.0" fill="#b79fa2" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="646.8" y="251.0" fill="#b99e9f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="655.2" y="251.0" fill="#b99e9e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="663.6" y="251.0" fill="#b69c9f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="672.0" y="251.0" fill="#b39ca0" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="680.4" y="251.0" fill="#af9da4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="688.8" y="251.0" fill="#b19fa6" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="697.2" y="251.0" fill="#b2a0a2" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="705.6" y="251.0" fill="#b39fa1" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="714.0" y="251.0" fill="#b19ea1" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="722.4" y="251.0" fill="#b29fa4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="730.8" y="251.0" fill="#b4a1a4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="739.2" y="251.0" fill="#b09fa2" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="747.6" y="251.0" fill="#a69ca4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="756.0" y="251.0" fill="#9b94a0" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="764.4" y="251.0" fill="#9c969e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="772.8" y="251.0" fill="#a0989d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="781.2" y="251.0" fill="#a6989a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="789.6" y="251.0" fill="#a79799" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="798.0" y="251.0" fill="#a89998" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="806.4" y="251.0" fill="#a99b97" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="814.8" y="251.0" fill="#aa9a98" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="823.2" y="251.0" fill="#a99c96" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="831.6" y="251.0" fill="#aa9c98" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="840.0" y="251.0" fill="#aa9e9b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="848.4" y="251.0" fill="#a9a19e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="856.8" y="251.0" fill="#a39d9c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="865.2" y="251.0" fill="#a49e9d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="873.6" y="251.0" fill="#a19ea1" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="882.0" y="251.0" fill="#9e9aa0" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="890.4" y="251.0" fill="#9c9aa0" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="898.8" y="251.0" fill="#9e989d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="907.2" y="251.0" fill="#a39396" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="915.6" y="251.0" fill="#ae9a9a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="924.0" y="251.0" fill="#b19797" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="932.4" y="251.0" fill="#b09693" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="940.8" y="251.0" fill="#b59691" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="949.2" y="251.0" fill="#b49390" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="957.6" y="251.0" fill="#b19997" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="966.0" y="251.0" fill="#a69599" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="974.4" y="251.0" fill="#a2959c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">,</text>
+<text x="982.8" y="251.0" fill="#9f959b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="991.2" y="251.0" fill="#9d96a1" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="999.6" y="251.0" fill="#9997a4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1008.0" y="251.0" fill="#9696a2" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1016.4" y="251.0" fill="#9597a5" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1024.8" y="251.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="255.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="268.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="268.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="268.0" fill="#b69b8d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="546.0" y="268.0" fill="#b69b8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="554.4" y="268.0" fill="#b79d8d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="562.8" y="268.0" fill="#b79d8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="571.2" y="268.0" fill="#b69c88" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="579.6" y="268.0" fill="#b79e8b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="588.0" y="268.0" fill="#b89d8b" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">::</text>
+<text x="604.8" y="268.0" fill="#ba9d8a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="613.2" y="268.0" fill="#ba9f8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="621.6" y="268.0" fill="#bb9f8d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="630.0" y="268.0" fill="#bb9e8b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="638.4" y="268.0" fill="#b99c8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="646.8" y="268.0" fill="#b99c8a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="655.2" y="268.0" fill="#b79d8a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="663.6" y="268.0" fill="#b69f8b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="672.0" y="268.0" fill="#b7a08e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="680.4" y="268.0" fill="#b6a08f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="688.8" y="268.0" fill="#b79f8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="697.2" y="268.0" fill="#b69f8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="705.6" y="268.0" fill="#b69e8a" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">::</text>
+<text x="722.4" y="268.0" fill="#b79f8c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="730.8" y="268.0" fill="#b69e8a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="739.2" y="268.0" fill="#b7a08b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="747.6" y="268.0" fill="#b7a08a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="756.0" y="268.0" fill="#b89d87" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="764.4" y="268.0" fill="#ba9f88" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="772.8" y="268.0" fill="#bb9e84" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="781.2" y="268.0" fill="#bf9d80" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="789.6" y="268.0" fill="#c49c7b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="798.0" y="268.0" fill="#c79977" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="806.4" y="268.0" fill="#cc9873" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="814.8" y="268.0" fill="#ce976f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="823.2" y="268.0" fill="#d0976e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="831.6" y="268.0" fill="#d0966d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="840.0" y="268.0" fill="#d0986f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="848.4" y="268.0" fill="#ce9971" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="856.8" y="268.0" fill="#cc9871" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="865.2" y="268.0" fill="#cb9874" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="873.6" y="268.0" fill="#ca9875" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="882.0" y="268.0" fill="#ca9877" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="890.4" y="268.0" fill="#cb9676" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="898.8" y="268.0" fill="#ce9576" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="907.2" y="268.0" fill="#d29474" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="915.6" y="268.0" fill="#d49474" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="924.0" y="268.0" fill="#d49375" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="932.4" y="268.0" fill="#d39376" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="940.8" y="268.0" fill="#d39177" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="949.2" y="268.0" fill="#d19277" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="957.6" y="268.0" fill="#d09278" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="966.0" y="268.0" fill="#cf9379" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="974.4" y="268.0" fill="#cd9378" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="982.8" y="268.0" fill="#ca957d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="991.2" y="268.0" fill="#c79580" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="999.6" y="268.0" fill="#c39883" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1008.0" y="268.0" fill="#c09a83" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1016.4" y="268.0" fill="#bd9a89" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1024.8" y="268.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="272.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="285.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="285.0" fill="#8a7f68" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">speed</text>
+<text x="84.0" y="285.0" fill="#a87b3a" textLength="436.8" lengthAdjust="spacing" xml:space="preserve">▁▃▅▆▆▇▇▇█████▇▇▆▆▅▅▅▄▄▄▄▄▄▄▄▄▄▄▅▅▅▅▅▅▅▅▅           │</text>
+<text x="529.2" y="285.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="285.0" fill="#c79a71" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="546.0" y="285.0" fill="#c69a6f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="554.4" y="285.0" fill="#c79a70" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="562.8" y="285.0" fill="#c79970" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="571.2" y="285.0" fill="#c7996f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="579.6" y="285.0" fill="#c79972" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="588.0" y="285.0" fill="#c89773" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="596.4" y="285.0" fill="#c89873" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="604.8" y="285.0" fill="#c89871" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="613.2" y="285.0" fill="#c89972" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="621.6" y="285.0" fill="#c89971" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="630.0" y="285.0" fill="#c79871" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="638.4" y="285.0" fill="#c7986e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="646.8" y="285.0" fill="#c79970" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="663.6" y="285.0" fill="#c7996f" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">;;;</text>
+<text x="688.8" y="285.0" fill="#c79a70" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="697.2" y="285.0" fill="#c6996e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="705.6" y="285.0" fill="#c6996f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="714.0" y="285.0" fill="#c6996e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="722.4" y="285.0" fill="#c7996f" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">;;;</text>
+<text x="747.6" y="285.0" fill="#c89a6f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="756.0" y="285.0" fill="#c99a6d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="764.4" y="285.0" fill="#cb9869" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="772.8" y="285.0" fill="#cd9868" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="781.2" y="285.0" fill="#cf9965" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="789.6" y="285.0" fill="#d39861" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="798.0" y="285.0" fill="#d6995f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="806.4" y="285.0" fill="#d89a5a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="814.8" y="285.0" fill="#db9958" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="823.2" y="285.0" fill="#dc9a57" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="831.6" y="285.0" fill="#dd9b56" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="840.0" y="285.0" fill="#dd9955" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="848.4" y="285.0" fill="#dd9855" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="856.8" y="285.0" fill="#db9957" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="865.2" y="285.0" fill="#d99859" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="873.6" y="285.0" fill="#d7975d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="882.0" y="285.0" fill="#d49760" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="890.4" y="285.0" fill="#d19462" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="898.8" y="285.0" fill="#ce9664" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="907.2" y="285.0" fill="#cc9669" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="915.6" y="285.0" fill="#cb9669" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="924.0" y="285.0" fill="#ca966b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="932.4" y="285.0" fill="#c9986c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="940.8" y="285.0" fill="#c9996e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="949.2" y="285.0" fill="#c9986d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="957.6" y="285.0" fill="#c9976d" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="974.4" y="285.0" fill="#c9986d" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="991.2" y="285.0" fill="#c9976d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="999.6" y="285.0" fill="#c9986e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1008.0" y="285.0" fill="#c9976e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1016.4" y="285.0" fill="#ca9870" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1024.8" y="285.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="289.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="302.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="302.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="302.0" fill="#d5955d" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="554.4" y="302.0" fill="#d5955c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="562.8" y="302.0" fill="#d5955e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="571.2" y="302.0" fill="#d5965f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="579.6" y="302.0" fill="#d59660" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="588.0" y="302.0" fill="#d69561" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="596.4" y="302.0" fill="#d69660" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="604.8" y="302.0" fill="#d69661" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="613.2" y="302.0" fill="#d69660" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="621.6" y="302.0" fill="#d6955e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="630.0" y="302.0" fill="#d5965e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="638.4" y="302.0" fill="#d5955d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="646.8" y="302.0" fill="#d4955d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="655.2" y="302.0" fill="#d5965d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="663.6" y="302.0" fill="#d5965c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="672.0" y="302.0" fill="#d4965d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="680.4" y="302.0" fill="#d5965d" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="697.2" y="302.0" fill="#d5965e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="705.6" y="302.0" fill="#d5975c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="714.0" y="302.0" fill="#d5965d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="722.4" y="302.0" fill="#d5975d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="730.8" y="302.0" fill="#d5965b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="739.2" y="302.0" fill="#d5955b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="747.6" y="302.0" fill="#d6965a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="756.0" y="302.0" fill="#d79759" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="764.4" y="302.0" fill="#d99758" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="772.8" y="302.0" fill="#db9756" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="781.2" y="302.0" fill="#df9853" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="789.6" y="302.0" fill="#e2994f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="798.0" y="302.0" fill="#e49a4e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="806.4" y="302.0" fill="#e89b4b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="814.8" y="302.0" fill="#eb9c4a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="823.2" y="302.0" fill="#ed9c48" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="831.6" y="302.0" fill="#ee9c47" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">cc</text>
+<text x="848.4" y="302.0" fill="#ed9b47" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="856.8" y="302.0" fill="#eb9b49" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="865.2" y="302.0" fill="#e99a4a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="873.6" y="302.0" fill="#e59a4d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="882.0" y="302.0" fill="#e29850" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="890.4" y="302.0" fill="#e09853" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="898.8" y="302.0" fill="#dc9755" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="907.2" y="302.0" fill="#da9659" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="915.6" y="302.0" fill="#d8955a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="924.0" y="302.0" fill="#d7955c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="932.4" y="302.0" fill="#d5955a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="940.8" y="302.0" fill="#d5955c" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="957.6" y="302.0" fill="#d5965d" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">;;;;</text>
+<text x="991.2" y="302.0" fill="#d5975e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="999.6" y="302.0" fill="#d5965f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1008.0" y="302.0" fill="#d6955f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1016.4" y="302.0" fill="#d89561" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="1024.8" y="302.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="306.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="319.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="319.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="319.0" fill="#e1974d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="546.0" y="319.0" fill="#e1964d" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">++++</text>
+<text x="579.6" y="319.0" fill="#e1954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="588.0" y="319.0" fill="#e2964c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="596.4" y="319.0" fill="#e1964d" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">++</text>
+<text x="613.2" y="319.0" fill="#e1954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="621.6" y="319.0" fill="#e1964d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="630.0" y="319.0" fill="#e2964c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="638.4" y="319.0" fill="#e2954d" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">+++</text>
+<text x="663.6" y="319.0" fill="#e1954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="672.0" y="319.0" fill="#e2964d" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">++</text>
+<text x="688.8" y="319.0" fill="#e1954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="697.2" y="319.0" fill="#e2954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="705.6" y="319.0" fill="#e1954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="714.0" y="319.0" fill="#e2954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="722.4" y="319.0" fill="#e2954e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="730.8" y="319.0" fill="#e2954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="739.2" y="319.0" fill="#e2974c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="747.6" y="319.0" fill="#e3974b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="756.0" y="319.0" fill="#e4974b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="764.4" y="319.0" fill="#e6984a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="772.8" y="319.0" fill="#e89848" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="781.2" y="319.0" fill="#eb9947" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="789.6" y="319.0" fill="#ee9a44" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="798.0" y="319.0" fill="#f19b43" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="806.4" y="319.0" fill="#f59c42" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="814.8" y="319.0" fill="#f79d41" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="823.2" y="319.0" fill="#fabc69" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="831.6" y="319.0" fill="#fcd288" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="840.0" y="319.0" fill="#fcd48b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="848.4" y="319.0" fill="#fbc373" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="856.8" y="319.0" fill="#f8a044" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="865.2" y="319.0" fill="#f59c42" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="873.6" y="319.0" fill="#f39a43" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="882.0" y="319.0" fill="#f09946" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="890.4" y="319.0" fill="#ed9848" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="898.8" y="319.0" fill="#ea9749" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="907.2" y="319.0" fill="#e7974b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="915.6" y="319.0" fill="#e6954b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="924.0" y="319.0" fill="#e4954c" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">++</text>
+<text x="940.8" y="319.0" fill="#e3954e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="949.2" y="319.0" fill="#e2954e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="957.6" y="319.0" fill="#e2964e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="966.0" y="319.0" fill="#e2964d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="974.4" y="319.0" fill="#e2954e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="982.8" y="319.0" fill="#e2954d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="991.2" y="319.0" fill="#e2964e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="999.6" y="319.0" fill="#e2954f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="1008.0" y="319.0" fill="#e29650" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">++</text>
+<text x="1024.8" y="319.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="323.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="336.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="336.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="336.0" fill="#ed923f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="546.0" y="336.0" fill="#ed9140" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">===</text>
+<text x="571.2" y="336.0" fill="#ee9140" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">==</text>
+<text x="588.0" y="336.0" fill="#ed9140" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="596.4" y="336.0" fill="#ed9040" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">===</text>
+<text x="621.6" y="336.0" fill="#ee8f40" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">==</text>
+<text x="638.4" y="336.0" fill="#ed9040" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">==</text>
+<text x="655.2" y="336.0" fill="#ed8f3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="663.6" y="336.0" fill="#ee8e3f" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">=====</text>
+<text x="705.6" y="336.0" fill="#ee8d3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="714.0" y="336.0" fill="#ee8e3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="722.4" y="336.0" fill="#ee8d3f" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">===</text>
+<text x="747.6" y="336.0" fill="#ef8d3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="756.0" y="336.0" fill="#f08e3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="764.4" y="336.0" fill="#f18e3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="772.8" y="336.0" fill="#f3913d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="781.2" y="336.0" fill="#f5923c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="789.6" y="336.0" fill="#f8953c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="798.0" y="336.0" fill="#fa973c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="806.4" y="336.0" fill="#fc993b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="814.8" y="336.0" fill="#fed388" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&amp;</text>
+<text x="823.2" y="336.0" fill="#ffffc8" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">MMMM</text>
+<text x="856.8" y="336.0" fill="#ffe4a0" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&amp;</text>
+<text x="865.2" y="336.0" fill="#fd9a3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="873.6" y="336.0" fill="#fa983c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="882.0" y="336.0" fill="#f8953c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="890.4" y="336.0" fill="#f6933d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="898.8" y="336.0" fill="#f3923d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="907.2" y="336.0" fill="#f18f3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="915.6" y="336.0" fill="#f08d3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="924.0" y="336.0" fill="#ef8d3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="932.4" y="336.0" fill="#ef8c3e" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">==</text>
+<text x="949.2" y="336.0" fill="#ef8d3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="957.6" y="336.0" fill="#ee8d3e" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">===</text>
+<text x="982.8" y="336.0" fill="#ee8d3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="991.2" y="336.0" fill="#ee8e3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="999.6" y="336.0" fill="#ee8d3f" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">==</text>
+<text x="1016.4" y="336.0" fill="#ee8e3f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="1024.8" y="336.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="340.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="353.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="353.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="353.0" fill="#f78a37" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="554.4" y="353.0" fill="#f78936" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">xxx</text>
+<text x="579.6" y="353.0" fill="#f78836" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="596.4" y="353.0" fill="#f78736" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="613.2" y="353.0" fill="#f78637" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="621.6" y="353.0" fill="#f78536" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">cx</text>
+<text x="638.4" y="353.0" fill="#f78435" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xc</text>
+<text x="655.2" y="353.0" fill="#f78336" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="663.6" y="353.0" fill="#f78335" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="672.0" y="353.0" fill="#f78235" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="680.4" y="353.0" fill="#f58136" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="688.8" y="353.0" fill="#f78136" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="697.2" y="353.0" fill="#f78035" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">cc</text>
+<text x="714.0" y="353.0" fill="#f77f35" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">ccc</text>
+<text x="739.2" y="353.0" fill="#f87f36" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="747.6" y="353.0" fill="#f97f35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="756.0" y="353.0" fill="#f98036" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="764.4" y="353.0" fill="#fa8136" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="772.8" y="353.0" fill="#fb8436" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="781.2" y="353.0" fill="#fc8736" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="789.6" y="353.0" fill="#fd8a37" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="798.0" y="353.0" fill="#fe8e37" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="806.4" y="353.0" fill="#ff9337" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="814.8" y="353.0" fill="#ffbe6e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&amp;</text>
+<text x="823.2" y="353.0" fill="#fff9be" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">@</text>
+<text x="831.6" y="353.0" fill="#ffffc6" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">M</text>
+<text x="840.0" y="353.0" fill="#ffffc7" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">M</text>
+<text x="848.4" y="353.0" fill="#fffcc4" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">M</text>
+<text x="856.8" y="353.0" fill="#ffce84" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&amp;</text>
+<text x="865.2" y="353.0" fill="#ff9437" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="873.6" y="353.0" fill="#fe8f37" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="882.0" y="353.0" fill="#fd8b35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="890.4" y="353.0" fill="#fc8735" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="898.8" y="353.0" fill="#fb8434" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="907.2" y="353.0" fill="#f98135" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="915.6" y="353.0" fill="#f98035" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="924.0" y="353.0" fill="#f97f34" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="932.4" y="353.0" fill="#f87d34" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="940.8" y="353.0" fill="#f77e34" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="949.2" y="353.0" fill="#f77e35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="957.6" y="353.0" fill="#f77f35" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">cc</text>
+<text x="974.4" y="353.0" fill="#f78035" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">ccc</text>
+<text x="999.6" y="353.0" fill="#f78135" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="1008.0" y="353.0" fill="#f78236" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="1016.4" y="353.0" fill="#f78335" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="1024.8" y="353.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="357.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="370.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="370.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="370.0" fill="#fb8534" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="546.0" y="370.0" fill="#fa8234" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="562.8" y="370.0" fill="#fa8134" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="571.2" y="370.0" fill="#fb8134" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="579.6" y="370.0" fill="#fb8233" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="588.0" y="370.0" fill="#fd8432" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="604.8" y="370.0" fill="#fd8332" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="613.2" y="370.0" fill="#fd8231" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="630.0" y="370.0" fill="#fd8132" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="638.4" y="370.0" fill="#fd8031" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="646.8" y="370.0" fill="#fb7f31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&gt;</text>
+<text x="655.2" y="370.0" fill="#f97d32" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">*</text>
+<text x="663.6" y="370.0" fill="#fa7d32" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&gt;</text>
+<text x="672.0" y="370.0" fill="#e67231" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">'</text>
+<text x="688.8" y="370.0" fill="#f07533" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">'</text>
+<text x="697.2" y="370.0" fill="#fb7a32" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">&lt;</text>
+<text x="705.6" y="370.0" fill="#fc7b31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="714.0" y="370.0" fill="#fd7a31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="722.4" y="370.0" fill="#fd7a30" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">xxx</text>
+<text x="747.6" y="370.0" fill="#fe7a30" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="756.0" y="370.0" fill="#fe7931" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="764.4" y="370.0" fill="#fe7b31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="772.8" y="370.0" fill="#fe7c31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="781.2" y="370.0" fill="#ff7f32" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="789.6" y="370.0" fill="#ff8332" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="798.0" y="370.0" fill="#ff8834" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="806.4" y="370.0" fill="#ff8e35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="814.8" y="370.0" fill="#ff9236" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="823.2" y="370.0" fill="#ff993d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="831.6" y="370.0" fill="#ffb461" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="840.0" y="370.0" fill="#ffb866" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="848.4" y="370.0" fill="#ff9d42" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="856.8" y="370.0" fill="#ff9336" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="865.2" y="370.0" fill="#ff8e34" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="873.6" y="370.0" fill="#ff8833" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="882.0" y="370.0" fill="#ff8432" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="890.4" y="370.0" fill="#ff8031" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="898.8" y="370.0" fill="#fe7d30" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="907.2" y="370.0" fill="#fe7b31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="915.6" y="370.0" fill="#fe7a31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="924.0" y="370.0" fill="#fe7930" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">xxxx</text>
+<text x="957.6" y="370.0" fill="#fe7a30" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="966.0" y="370.0" fill="#fd7b30" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="974.4" y="370.0" fill="#fd7c31" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">xx</text>
+<text x="991.2" y="370.0" fill="#fd7c30" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="999.6" y="370.0" fill="#fd7d31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="1008.0" y="370.0" fill="#fd7e31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="1016.4" y="370.0" fill="#fd7f31" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="1024.8" y="370.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="374.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="387.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="387.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="387.0" fill="#ea693c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="546.0" y="387.0" fill="#e9693d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="554.4" y="387.0" fill="#e8693e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="562.8" y="387.0" fill="#e8683d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="571.2" y="387.0" fill="#e9693d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="579.6" y="387.0" fill="#e9693e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="588.0" y="387.0" fill="#ea693e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="596.4" y="387.0" fill="#eb6a3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="604.8" y="387.0" fill="#ee6d3b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="613.2" y="387.0" fill="#ef703a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="621.6" y="387.0" fill="#f17538" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">~</text>
+<text x="630.0" y="387.0" fill="#f57c35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">"</text>
+<text x="638.4" y="387.0" fill="#df732f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="714.0" y="387.0" fill="#e16936" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="722.4" y="387.0" fill="#f3713a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">^</text>
+<text x="730.8" y="387.0" fill="#f27139" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="739.2" y="387.0" fill="#ef6f38" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="747.6" y="387.0" fill="#f57238" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="756.0" y="387.0" fill="#f77537" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="764.4" y="387.0" fill="#f87735" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="772.8" y="387.0" fill="#fa7b35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="781.2" y="387.0" fill="#fc7f33" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="789.6" y="387.0" fill="#fd8233" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="798.0" y="387.0" fill="#fd8633" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="806.4" y="387.0" fill="#ff8833" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="814.8" y="387.0" fill="#ff8a34" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="823.2" y="387.0" fill="#ff8b34" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="831.6" y="387.0" fill="#ff8d35" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="840.0" y="387.0" fill="#fe8c37" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="848.4" y="387.0" fill="#fd8a36" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">o</text>
+<text x="856.8" y="387.0" fill="#fc8636" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="865.2" y="387.0" fill="#fb8336" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="873.6" y="387.0" fill="#f97d36" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">x</text>
+<text x="882.0" y="387.0" fill="#f77b37" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="890.4" y="387.0" fill="#f67738" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="898.8" y="387.0" fill="#f47338" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="907.2" y="387.0" fill="#f37239" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="915.6" y="387.0" fill="#f27038" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="924.0" y="387.0" fill="#f27039" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="932.4" y="387.0" fill="#f27038" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="940.8" y="387.0" fill="#f27039" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="949.2" y="387.0" fill="#f37138" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="957.6" y="387.0" fill="#f47239" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="966.0" y="387.0" fill="#f57238" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="974.4" y="387.0" fill="#f67437" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">==</text>
+<text x="991.2" y="387.0" fill="#f57437" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="999.6" y="387.0" fill="#f47338" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="1008.0" y="387.0" fill="#f37239" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">=</text>
+<text x="1016.4" y="387.0" fill="#f1713a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="1024.8" y="387.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="391.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="404.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="404.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="404.0" fill="#c85743" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="546.0" y="404.0" fill="#c75743" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="554.4" y="404.0" fill="#c65644" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">:::</text>
+<text x="579.6" y="404.0" fill="#c75644" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="588.0" y="404.0" fill="#c05342" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="596.4" y="404.0" fill="#c05343" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="747.6" y="404.0" fill="#dc673f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="756.0" y="404.0" fill="#e1683e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="764.4" y="404.0" fill="#e1673c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="772.8" y="404.0" fill="#e8693d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="781.2" y="404.0" fill="#e9693d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="789.6" y="404.0" fill="#e8693f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="798.0" y="404.0" fill="#ea6a3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="806.4" y="404.0" fill="#ea693e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="814.8" y="404.0" fill="#ea6a3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="823.2" y="404.0" fill="#e9693e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="831.6" y="404.0" fill="#e96a3e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="840.0" y="404.0" fill="#e96a3d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="848.4" y="404.0" fill="#e86a3d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="856.8" y="404.0" fill="#e8693d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="865.2" y="404.0" fill="#e7693d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">+</text>
+<text x="873.6" y="404.0" fill="#e8693c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="882.0" y="404.0" fill="#e7693c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="890.4" y="404.0" fill="#e6693b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="898.8" y="404.0" fill="#e6673a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="907.2" y="404.0" fill="#e5673b" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="924.0" y="404.0" fill="#e4673b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="932.4" y="404.0" fill="#e5673b" textLength="16.8" lengthAdjust="spacing" xml:space="preserve">;;</text>
+<text x="949.2" y="404.0" fill="#e4673c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="957.6" y="404.0" fill="#e3663c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="966.0" y="404.0" fill="#e3653d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="974.4" y="404.0" fill="#e0643e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="982.8" y="404.0" fill="#de633f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="991.2" y="404.0" fill="#da6040" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">;</text>
+<text x="999.6" y="404.0" fill="#d45c42" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="1008.0" y="404.0" fill="#cc5842" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="1016.4" y="404.0" fill="#c95744" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="1024.8" y="404.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="408.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="421.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="421.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="537.6" y="421.0" fill="#b8503e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="546.0" y="421.0" fill="#ad4c3b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="554.4" y="421.0" fill="#ba503d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="562.8" y="421.0" fill="#aa4939" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="571.2" y="421.0" fill="#a64837" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="781.2" y="421.0" fill="#c65946" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="789.6" y="421.0" fill="#b95340" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="798.0" y="421.0" fill="#bd5440" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="806.4" y="421.0" fill="#c65645" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="814.8" y="421.0" fill="#c75644" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="823.2" y="421.0" fill="#c65643" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="831.6" y="421.0" fill="#c65743" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="840.0" y="421.0" fill="#c75743" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="848.4" y="421.0" fill="#c75844" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="856.8" y="421.0" fill="#c75544" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="865.2" y="421.0" fill="#c85744" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="873.6" y="421.0" fill="#c95843" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="882.0" y="421.0" fill="#c95844" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="890.4" y="421.0" fill="#cb5945" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="898.8" y="421.0" fill="#cc5945" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="907.2" y="421.0" fill="#cc5944" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="915.6" y="421.0" fill="#cc5843" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="924.0" y="421.0" fill="#cc5943" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="932.4" y="421.0" fill="#cb5943" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="940.8" y="421.0" fill="#ca5843" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="949.2" y="421.0" fill="#c95843" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="957.6" y="421.0" fill="#c75742" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="966.0" y="421.0" fill="#c65742" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="974.4" y="421.0" fill="#c45441" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">:</text>
+<text x="982.8" y="421.0" fill="#c35542" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="991.2" y="421.0" fill="#c05340" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="999.6" y="421.0" fill="#bf5240" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1008.0" y="421.0" fill="#bd5140" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1016.4" y="421.0" fill="#bb513f" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1024.8" y="421.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="425.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="438.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="438.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="831.6" y="438.0" fill="#ba5240" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="840.0" y="438.0" fill="#ab4b3b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="848.4" y="438.0" fill="#b75141" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="856.8" y="438.0" fill="#ba5240" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="865.2" y="438.0" fill="#bc5240" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="873.6" y="438.0" fill="#bd5342" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="882.0" y="438.0" fill="#bc5141" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="890.4" y="438.0" fill="#b54f40" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="898.8" y="438.0" fill="#ad4b3c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="907.2" y="438.0" fill="#a34738" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="915.6" y="438.0" fill="#a34538" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="924.0" y="438.0" fill="#a34638" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="932.4" y="438.0" fill="#a34538" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="940.8" y="438.0" fill="#943e32" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="949.2" y="438.0" fill="#b95143" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="957.6" y="438.0" fill="#bb513e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="966.0" y="438.0" fill="#ae4c39" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="974.4" y="438.0" fill="#aa4a3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="982.8" y="438.0" fill="#b34e3c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="991.2" y="438.0" fill="#af4c3d" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="999.6" y="438.0" fill="#aa4a3b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1008.0" y="438.0" fill="#a8483c" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1016.4" y="438.0" fill="#a4463b" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">.</text>
+<text x="1024.8" y="438.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<rect x="0.0" y="442.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="455.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="455.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="459.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="472.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="472.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="476.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="489.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="489.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="493.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="506.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="506.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="510.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="523.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="523.0" fill="#8cc06a" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">✓ film ready</text>
+<text x="512.4" y="523.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="523.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="527.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="540.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="540.0" fill="#f2e8cf" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">dusk-1080p60.av1 · 813 KB · 8.0s of footage</text>
+<text x="512.4" y="540.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="540.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="544.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="557.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="25.2" y="557.0" fill="#8a7f68" textLength="420.0" lengthAdjust="spacing" xml:space="preserve">run it with  ./dusk-1080p60.av1   or   tertre play</text>
+<text x="512.4" y="557.0" fill="#a87b3a" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">│</text>
+<text x="529.2" y="557.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="561.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="574.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="574.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="578.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="591.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">│                                                           │</text>
+<text x="529.2" y="591.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">│                                                          │</text>
+<rect x="0.0" y="595.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="608.0" fill="#a87b3a" textLength="512.4" lengthAdjust="spacing" xml:space="preserve">└───────────────────────────────────────────────────────────┘</text>
+<text x="529.2" y="608.0" fill="#4a4234" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">└──────────────────────────────────────────────────────────┘</text>
+<rect x="0.0" y="612.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<rect x="0.0" y="629.0" width="1042.0" height="17.4" fill="#0b0907"/>
+<text x="8.4" y="642.0" fill="#f2c14e" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">enter</text>
+<text x="58.8" y="642.0" fill="#8a7f68" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">play now</text>
+<text x="142.8" y="642.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">·</text>
+<text x="168.0" y="642.0" fill="#f2c14e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">l</text>
+<text x="184.8" y="642.0" fill="#8a7f68" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">library</text>
+<text x="260.4" y="642.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">·</text>
+<text x="285.6" y="642.0" fill="#f2c14e" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">c</text>
+<text x="302.4" y="642.0" fill="#8a7f68" textLength="126.0" lengthAdjust="spacing" xml:space="preserve">convert another</text>
+<text x="445.2" y="642.0" fill="#4a4234" textLength="8.4" lengthAdjust="spacing" xml:space="preserve">·</text>
+<text x="470.4" y="642.0" fill="#f2c14e" textLength="25.2" lengthAdjust="spacing" xml:space="preserve">esc</text>
+<text x="504.0" y="642.0" fill="#8a7f68" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">home</text>
+</g>
+</svg>
