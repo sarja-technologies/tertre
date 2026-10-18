@@ -179,7 +179,7 @@ fn audio_and_video_start_together_in_the_file() {
     let a = r.audio.clone().expect("audio track missing");
     let (src, _) = r.audio_reader(&av1).unwrap().unwrap();
     let (pcm, rate) = audio::decode_all(src, &a).unwrap();
-    let onset = pcm.chunks_exact(2).position(|f| f[0].abs() > 0.05).expect("tone never started");
+    let onset = pcm.as_chunks::<2>().0.iter().position(|f| f[0].abs() > 0.05).expect("tone never started");
     let audio_t = onset as f64 / rate as f64 + a.start_offset_us as f64 / 1e6;
     eprintln!("flash at {video_t:.3}s, tone at {audio_t:.3}s");
     assert!((video_t - 1.0).abs() < 0.07, "video flash at {video_t}");
